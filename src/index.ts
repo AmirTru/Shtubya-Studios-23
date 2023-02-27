@@ -1,4 +1,4 @@
 window.Webflow ||= [];
 window.Webflow.push(() => {
-  console.log('Webflow');
+  console.log('Webflow Hi');
 });
