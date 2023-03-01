@@ -1,5 +1,5 @@
 ---
-'@shtubya/shtubya-Studios-23': patch
+'@shtubya/shtubya-studios-23': patch
 ---
 
 test

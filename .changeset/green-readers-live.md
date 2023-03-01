@@ -1,5 +1,5 @@
 ---
-'@finsweet/developer-starter': patch
+'@shtubya/shtubya-studios-23': patch
 ---
 
 added Hi
